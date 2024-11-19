@@ -28,7 +28,7 @@
 
   | SOCIAL MEDIA  | 
   |:-------------:|
-  | <a href="https://discord.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  /></a> <a href="https://tiktok.com/krischan" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/tiktok/FFFFFF" height="50" alt="tiktok logo"  /></a> <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="50" alt="facebook logo"  /></a> <a href="https://youtube.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="50" alt="youtube logo"  /></a> |
+  | <a href="https://discord.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  /></a> <a href="https://tiktok.com/krischandev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/tiktok/FFFFFF" height="50" alt="tiktok logo"  /></a> <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="50" alt="facebook logo"  /></a> <a href="https://youtube.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="50" alt="youtube logo"  /></a> |
   
 </div>
 
