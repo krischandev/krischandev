@@ -6,7 +6,7 @@
   <a href="mailto:chriciachan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email%20me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krischandev&theme=discord" alt="krischandev" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=krischandev&theme=discord" alt="krischandev" /></p>
 
 
 
